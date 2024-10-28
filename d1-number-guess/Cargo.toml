@@ -1,5 +1,5 @@
 [package]
-name = "d1"
+name = "d1-number-guess"
 version = "0.1.0"
 edition = "2021"
 
