@@ -12,4 +12,5 @@
     - Perlin noise
     - Erosion
     - Diffusion Limited Aggregation
-- Sentence Cosine Similarity
+- ~Sentence Cosine Similarity~
+- Vector view, wrapping object/library
