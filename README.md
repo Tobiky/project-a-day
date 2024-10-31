@@ -15,3 +15,7 @@
 - ~Sentence Cosine Similarity~
 - Vector view, wrapping object/library
 - Simple/Basic vector extensions (e.g. add/mul with scalar)
+- Simple Terminal Game
+    - Find Maze Exit
+    - Platformer (reach point)
+    - Platformer (defeat all enemies)
