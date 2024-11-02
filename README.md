@@ -19,3 +19,4 @@
     - Find Maze Exit
     - Platformer (reach point)
     - Platformer (defeat all enemies)
+- bool ok_or extension (true -> ok, false -> err)
