@@ -12,6 +12,7 @@
     - Perlin noise
     - Erosion
     - Diffusion Limited Aggregation
+    - [Blending of fractals](https://youtu.be/1L-x_DH3Uvg) (cave generation?)
 - ~Sentence Cosine Similarity~
 - Vector view, wrapping object/library
 - Simple/Basic vector extensions (e.g. add/mul with scalar)
@@ -20,3 +21,4 @@
     - Platformer (reach point)
     - Platformer (defeat all enemies)
 - bool ok_or extension (true -> ok, false -> err)
+- [Hash visualization](https://netsec.ethz.ch/publications/papers/validation.pdf)
