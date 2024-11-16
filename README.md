@@ -9,7 +9,8 @@
 - Maze generator in terminal
 - Water corrosion
 - [Terrain generation](https://youtu.be/gsJHzBTPG0Y)
-    - Perlin noise
+    - [Perlin noise](https://en.wikipedia.org/wiki/Perlin_noise)
+        - Visualizer in terminal?
     - Erosion
     - Diffusion Limited Aggregation
     - [Blending of fractals](https://youtu.be/1L-x_DH3Uvg) (cave generation?)
