@@ -24,3 +24,4 @@
 - bool ok_or extension (true -> ok, false -> err)
 - [Hash visualization](https://netsec.ethz.ch/publications/papers/validation.pdf)
 - Terminal grayscale visualization
+- Get ranges of bits as values
