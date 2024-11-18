@@ -16,9 +16,9 @@ pub fn closest_terminal_gray(value: f32) -> Color {
     }
 }
 
-pub fn draw_noise(out: &mut impl io::Write, screen: (u16, u16)) -> io::Result<()> {
+pub fn draw_noise(out: &mut impl io::Write, screen: (u16, u16), scale: u8) -> io::Result<()> {
     let (cols, rows) = screen;
-    let step = 1. / 8.;
+    let step = 1. / 2f32.powi(scale.max(1) as i32);
 
     for y in 0..rows {
         let fy = step * (y as f32);
